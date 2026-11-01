@@ -88,17 +88,6 @@ The circuits were verified through simulation.
 - Logic Gates (NOT, AND, OR, XOR)
 - Digital Logic Simulator
 
-## 🎯 Learning Outcomes
-
-Through this project, I practiced:
-
-- Designing combinational logic circuits.
-- Understanding and implementing Full Adders.
-- Building a multi-bit subtractor using two's complement.
-- Simplifying Boolean expressions using Karnaugh maps.
-- Designing hexadecimal 7-segment decoders.
-- Testing and verifying digital circuits through simulation.
-
 ## 📄 Project Documentation
 
 The project documentation includes:
@@ -109,6 +98,3 @@ The project documentation includes:
 - Simulation results
 
 ---
-
-**Course:** Digital Logic Design  
-**Project:** 4-Bit Subtractor & 7-Segment Decoder
